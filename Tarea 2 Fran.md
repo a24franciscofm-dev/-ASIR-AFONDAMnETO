@@ -1,6 +1,6 @@
 # Guía de Comandos Básicos de Linux
 
-## Índice
+## Índice d la tarea
 * [1. Introducción](#1-introducción)
 * [2. Navegación por el Sistema de Archivos](#2-navegación-por-el-sistema-de-archivos)
 * [3. Gestión de Archivos y Directorios](#3-gestión-de-archivos-y-directorios)
