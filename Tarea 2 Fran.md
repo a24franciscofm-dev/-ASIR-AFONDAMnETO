@@ -42,7 +42,7 @@ La siguiente tabla muestra herramientas fundamentales para administrar tus eleme
 
 ```bash
 #!/bin/bash
-echo "¡Hola, Mundo desde la terminal de Linux!"
+echo "¡Hola, Mundo desde la terminal de Linux!,¿Que tal?"
 ```
 
 ---
