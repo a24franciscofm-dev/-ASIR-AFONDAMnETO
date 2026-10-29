@@ -56,3 +56,7 @@ Si deseas profundizar tus conocimientos en la gestión avanzada de servidores y 
 ![imagen obuntu](https://blog.desdelinux.net/wp-content/uploads/2011/10/logo-ubuntu.png)
 
 ##Informacion del proyecto
+##Proximas mejoras.
+Apliacion de comandos
+Profundidad en la explicacion 
+ejemplos mas desarrollados
