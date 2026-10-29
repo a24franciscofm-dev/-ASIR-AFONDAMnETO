@@ -54,3 +54,5 @@ Para verificar las direcciones IP de tus interfaces de red de forma rápida, pue
 
 Si deseas profundizar tus conocimientos en la gestión avanzada de servidores y entornos de terminal, te recomendamos visitar la [Documentación Oficial de Ubuntu](https://ubuntu.com), donde encontrarás guías detalladas paso a paso.
 ![imagen obuntu](https://blog.desdelinux.net/wp-content/uploads/2011/10/logo-ubuntu.png)
+
+##Informacion del proyecto
